@@ -2,10 +2,10 @@
 
 # False Belief Dissemination, Persistence and Mitigation in Multi-Agent Social Networks Through the Lens of the Mandela Effect
 
-Dianzhi Yu<sup>*</sup>, Hongru Wang<sup>*</sup>, Ziheng Xiong, Yanyu Chen, Zixing Song,<br>
+Dianzhi Yu<sup>&#42;</sup>, Hongru Wang<sup>&#42;</sup>, Ziheng Xiong, Yanyu Chen, Zixing Song,<br>
 Jianting Chen, Zhenfei Yin, Jeff Z. Pan, Amos Storkey<sup>†</sup>, Irwin King<sup>†</sup>
 
-**[📖Paper](paper.pdf)**
+**[📖 Paper](paper.pdf)**
 
 </div>
 
