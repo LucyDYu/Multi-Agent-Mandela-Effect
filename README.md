@@ -5,7 +5,7 @@
 Dianzhi Yu<sup>&#42;</sup>, Hongru Wang<sup>&#42;</sup>, Ziheng Xiong, Yanyu Chen, Zixing Song,<br>
 Jianting Chen, Zhenfei Yin, Jeff Z. Pan, Amos Storkey<sup>†</sup>, Irwin King<sup>†</sup>
 
-**[📖 Paper](paper.pdf)**
+**[📖 Paper](Paper.pdf)**
 
 </div>
 
